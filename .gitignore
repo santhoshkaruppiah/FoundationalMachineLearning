@@ -8,6 +8,17 @@ __pycache__/
 /models/
 /notebooks/
 
+### IntelliJ IDEA ###
+/.idea
+.idea/
+*/.idea
+.idea/*
+/.mvn
+*.iml
+*.ipr
+*.iws
+
+
 # C extensions
 *.so
 
