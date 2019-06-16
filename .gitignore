@@ -4,10 +4,9 @@ __pycache__/
 *$py.class
 .DS_Store
 /data/
-/hw2/
 /models/
 /notebooks/
-/Final_Project/
+/Final_Project/logs
 
 ### IntelliJ IDEA ###
 /.idea
